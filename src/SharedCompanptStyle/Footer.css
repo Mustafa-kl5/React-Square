@@ -1,0 +1,69 @@
+.Footer-Box {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    width: 100%;
+}
+
+.Footer-Content {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.wrap-box {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-right: 10px;
+}
+
+.Contact-Text {
+    margin-bottom: 5px;
+}
+
+.Call-Text,
+.Email-Text {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.Address-Text {
+    width: 200px;
+}
+
+.wrap-box-social {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction:column;
+}
+
+.instagram-Text,
+.facebook-Text,
+.linkedin-Text,
+.twitter-Text {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.wrap-box-A,
+.wrap-box-B {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    color: gray;
+
+}
+.copy-right{
+    margin-top: 32px;
+    color: gray;
+}

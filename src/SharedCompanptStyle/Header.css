@@ -1,0 +1,8 @@
+.Header-Box {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    color: gray;
+}
